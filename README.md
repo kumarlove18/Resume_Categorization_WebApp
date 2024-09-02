@@ -1,6 +1,5 @@
 # Resume Categorization WebApp
-This is a web-based application built using Streamlit for categorizing resumes into different job roles. The resumes are uploaded as PDF files, and the application uses a pre-trained machine learning model to classify the resumes into specific categories like "Java Developer," "Data Scientist," "HR," etc. The results can be downloaded as a CSV file.
-
+This is a web-based application built using Streamlit for categorizing resumes into different job roles. The resumes are uploaded as PDF files, and the application uses a pre-trained machine learning model to classify the resumes into specific categories like "Java Developer," "Data Scientist," "HR," etc.
 ## Demo
 
 Check out a live demo of the application: http://localhost:8501/(#)
